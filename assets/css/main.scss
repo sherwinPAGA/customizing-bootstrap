@@ -17,6 +17,14 @@ $h3-font-size: 1.75rem;
 $h4-font-size: 1.5rem;
 $h5-font-size: 1.25rem;
 $h6-font-size: 1rem;
+
+// Cristine joy sorilla I added Table Design
+$table-border-color: rgb(163, 160, 157) !important;
+$table-border-width: 10px !important;
+$table-bg: rgb(27, 105, 24) !important;
+$table-color:white !important;
+@import "../../node_modules/bootstrap/scss/tables";
+
 // End
 // 3. Include remainder of required Bootstrap stylesheets (including any separate color mode stylesheets)
 @import "../../node_modules/bootstrap/scss/variables";
