@@ -1,0 +1,19 @@
+{
+  "name": "customizing-bootstrap",
+  "version": "1.0.0",
+  "description": "- Your are going to modify **Bootstrap 5.3.3** using **NPM** by customizing at least **10 variables each** and working collaboratively and build a fully customized homepage.\r - For the fully customized homepage, make sure you have a wireframe to present and apply __*60-3-10 rule*__, __*principles of design*__, __*typography*__, and __*color theory*__.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asegumpan/customizing-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asegumpan/customizing-bootstrap/issues"
+  },
+  "homepage": "https://github.com/asegumpan/customizing-bootstrap#readme"
+}
