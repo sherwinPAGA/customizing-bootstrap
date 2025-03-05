@@ -5,6 +5,17 @@
 @import "../../node_modules/bootstrap/scss/functions";
 
 // 2. Include any default variable overrides here
+//Sherwin Pagalilawan Custom carousel animations applied
+$carousel-transition-duration: 1s;
+$carousel-transition-timing-function: ease-in-out;
+$carousel-inner-padding: 0;
+$carousel-control-width: 5rem;
+$carousel-control-height: 3rem;
+$carousel-indicator-width: 1.25rem;
+$carousel-indicator-height: 1.25rem;
+$carousel-indicator-border-width: 1px;
+$carousel-indicator-border-color: rgba(0, 0, 0, 0.25);
+$carousel-indicator-active-color: #ffffff;
 
 // Renato Bingua Jr. I added new Font Style
 $font-family-sans-serif: "Poppins", sans-serif;
@@ -22,7 +33,7 @@ $h6-font-size: 1rem;
 $table-border-color: rgb(163, 160, 157) !important;
 $table-border-width: 10px !important;
 $table-bg: rgb(27, 105, 24) !important;
-$table-color:white !important;
+$table-color: white !important;
 @import "../../node_modules/bootstrap/scss/tables";
 
 // End
@@ -30,15 +41,15 @@ $table-color:white !important;
 @import "../../node_modules/bootstrap/scss/variables";
 @import "../../node_modules/bootstrap/scss/variables-dark";
 
-$theme-colors:(
-    "primary": #F1E3D3,
-    "secondary": #E07A5F,
-    "success": #690B22,
-    "danger": #1B4D3E
+$theme-colors: (
+  "primary": #f1e3d3,
+  "secondary": #e07a5f,
+  "success": #690b22,
+  "danger": #1b4d3e,
 );
 
-$dropdown-border-radius: 0!important;
-$dropdown-border-width: 0!important;
+$dropdown-border-radius: 0 !important;
+$dropdown-border-width: 0 !important;
 
 // 4. Include any default map overrides here
 
@@ -60,8 +71,6 @@ $dropdown-border-width: 0!important;
 @import "../../node_modules/bootstrap/scss/dropdown";
 @import "../../node_modules/bootstrap/scss/forms";
 @import "../../node_modules/bootstrap/scss/buttons";
-
-
 
 // 7. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
 @import "../../node_modules/bootstrap/scss/utilities/api";
