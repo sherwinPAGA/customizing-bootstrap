@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/asegumpan/customizing-bootstrap/issues"
   },
-  "homepage": "https://github.com/asegumpan/customizing-bootstrap#readme"
+  "homepage": "https://github.com/asegumpan/customizing-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
 }
