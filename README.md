@@ -45,11 +45,12 @@ assets/
 | 8 | **Kei Nikole Filio** | Footer Customization | Custom styles in `style.scss` | Footer will have a **dark theme with white text** |
 | 9 | **John Rey Gasparillo** | Grid Layout | Modify Bootstrap grid classes and breakpoints | Responsive grid system applied |
 | 10 | **Joshua Lacsi** | Alerts Styling | Customize alert colors, padding, and border radius | Bootstrap alerts will have a **unique design** |
-| 11 | **Elea Jem Lobaton** | Modals Design | Modify modal background, overlay, and buttons | Modals will have a **custom design** |
-| 12 | **Sherwin Pagalilawan** | Carousel Effects | Modify Bootstrap carousel controls, indicators, and transition effects | Custom carousel animations applied |
-| 13 | **Reyna Jane Singua** | Badge Styling | Modify badge colors, font size, and padding | Bootstrap badges will have a **unique appearance** |
-| 14 | **Cristine Joy Sorilla** | Table Design | Modify Bootstrap table borders, background, and text color | Tables will have **improved readability and styling** |
-| 15 | **Amiel Jose Victorino** | Hero Section Layout | Create a hero section using Bootstrap grid, typography, and buttons | Homepage will have a well-designed hero section |
+| 11 | **Iven Loro** | Modal Customization | `$modal-content-bg`, `$modal-content-border-color`, `$modal-content-border-width`, `$modal-header-bg`, `$modal-header-border-color`, `$modal-footer-border-color`, `$modal-lg`, `$modal-md`, `$modal-sm`, `$modal-transition` | Modals will have **custom background, border styles, and transition effects** |
+| 12 | **Elea Jem Lobaton** | Modals Design | Modify modal background, overlay, and buttons | Modals will have a **custom design** in the front end |
+| 13 | **Sherwin Pagalilawan** | Carousel Effects | Modify Bootstrap carousel controls, indicators, and transition effects | Custom carousel animations applied |
+| 14 | **Reyna Jane Singua** | Badge Styling | Modify badge colors, font size, and padding | Bootstrap badges will have a **unique appearance** |
+| 15 | **Cristine Joy Sorilla** | Table Design | Modify Bootstrap table borders, background, and text color | Tables will have **improved readability and styling** |
+| 16 | **Amiel Jose Victorino** | Hero Section Layout | Create a hero section using Bootstrap grid, typography, and buttons | Homepage will have a well-designed hero section |
 
 ---
 
