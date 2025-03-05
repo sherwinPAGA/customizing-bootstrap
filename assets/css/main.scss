@@ -10,6 +10,16 @@
 @import "../../node_modules/bootstrap/scss/variables";
 @import "../../node_modules/bootstrap/scss/variables-dark";
 
+$theme-colors:(
+    "primary": #F1E3D3,
+    "secondary": #E07A5F,
+    "success": #690B22,
+    "danger": #1B4D3E
+);
+
+$dropdown-border-radius: 0!important;
+$dropdown-border-width: 0!important;
+
 // 4. Include any default map overrides here
 
 // 5. Include remainder of required parts
@@ -25,6 +35,13 @@
 @import "../../node_modules/bootstrap/scss/containers";
 @import "../../node_modules/bootstrap/scss/grid";
 @import "../../node_modules/bootstrap/scss/helpers";
+@import "../../node_modules/bootstrap/scss/nav";
+@import "../../node_modules/bootstrap/scss/navbar";
+@import "../../node_modules/bootstrap/scss/dropdown";
+@import "../../node_modules/bootstrap/scss/forms";
+@import "../../node_modules/bootstrap/scss/buttons";
+
+
 
 // 7. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
 @import "../../node_modules/bootstrap/scss/utilities/api";
