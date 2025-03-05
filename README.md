@@ -28,7 +28,7 @@ assets/
 ## 📌 **DEADLINE!!!**
 | **Date** | **Time**                |
 |------|--------------------------------|
-| MARCH 4, 2025 | **7:30PM** 🕢 |
+| MARCH 5, 2025 | **7:30PM** 🕢 |
 
 
 ## Student Assigned Task  
